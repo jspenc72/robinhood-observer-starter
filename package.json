@@ -1,0 +1,17 @@
+{
+  "name": "robinhood-observer-starter",
+  "version": "1.0.0",
+  "description": "Starter project for robinhood-observer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "robinhood"
+  ],
+  "author": "jspenc72",
+  "license": "ISC",
+  "dependencies": {
+    "robinhood-observer": "0.0.1"
+  }
+}
