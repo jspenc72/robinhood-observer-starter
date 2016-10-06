@@ -14,7 +14,7 @@ git clone https://github.com/jspenc72/robinhood-observer-example
 
 - Install dependencies
 ```bash
-npm install --save
+npm install
 ```
 
 - Run the Example
