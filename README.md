@@ -25,3 +25,10 @@ npm install
 ```bash
 node index.js
 ```
+
+
+# Using Docker
+
+```bash
+docker build -t jspenc72/robinhood-observer .
+```

@@ -7,11 +7,16 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "robinhood"
+    "robinhood",
+    "day-trading",
+    "stock",
+    "stocks",
+    "nyse",
+    "nasdaq"
   ],
   "author": "jspenc72",
   "license": "ISC",
   "dependencies": {
-    "robinhood-observer": "0.0.1"
+    "robinhood-observer": "^0.1.6"
   }
 }

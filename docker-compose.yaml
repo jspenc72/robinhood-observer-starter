@@ -1,0 +1,10 @@
+version: '3'
+
+services:
+  robinhood:
+    image: jspenc72/robinhood-observer:latest
+    environment:
+      ROBINHOOD_USERNAME:
+      ROBINHOOD_PASSWORD:
+      SYMBOLS: AAPL:GOOG
+    entrypoint: ["node", "index.js"]
